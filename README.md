@@ -24,3 +24,5 @@ pip install manim
 # Notebooks
 
 [00 | Linear Algebra](https://github.com/CSFelix/manim-videos/blob/main/src/00%20-%20Linear%20Algebra.ipynb)
+
+[01 | Matrix Decomposition](https://github.com/CSFelix/manim-videos/blob/main/src/01%20-%20Matrix%20Decomposition.ipynb)
