@@ -26,3 +26,5 @@ pip install manim
 [00 | Linear Algebra](https://github.com/CSFelix/manim-videos/blob/main/src/00%20-%20Linear%20Algebra.ipynb)
 
 [01 | Matrix Decomposition](https://github.com/CSFelix/manim-videos/blob/main/src/01%20-%20Matrix%20Decomposition.ipynb)
+
+[02 | Conditional Probability](https://github.com/CSFelix/manim-videos/blob/main/src/02%20-%20Conditional%20Probability.ipynb)
